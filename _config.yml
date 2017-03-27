@@ -1,12 +1,12 @@
 # Basic
-title: 殷红
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Zuo Wang
+subtitle: Personal Blog
+description: Welcome to my blog~
 # 头像里面的标题
-avatarTitle: hongyin0127
+avatarTitle: zuowang
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "hongyin0127.github.io"
+avatarDesc: 机器视觉 / 深度学习
+url: "zuowang.github.io"
 
 # Comment
 comment:
@@ -15,15 +15,15 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: hongyin0127
+    weibo: harpe1999
+    github: zuowang
     # twitter: 
-    mail: hongyin0127@icloud.com
+    mail: wangzuo.nj@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-#baidu:
-#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+baidu:
+    id: c203919e27e0eb1440cf4bf28dc8aa44
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
@@ -53,13 +53,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: index
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: archive, description: archive, url: '/archive'}   
+    - {title: tags, description: tags, url: '/tags'}      
+    - {title: about, description: about, url: '/about'}      
     
 
 # Pagination
